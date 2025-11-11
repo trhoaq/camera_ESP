@@ -11,8 +11,8 @@
 #include "define_pins.h"
 #include "httpd.h"
 
-#define WIFI_SSID      "Le Sang"
-#define WIFI_PASS      "@1972sang"
+#define WIFI_SSID      "ssid"
+#define WIFI_PASS      "passw"
 
 static const char *TAG = "camera_stream";
 
